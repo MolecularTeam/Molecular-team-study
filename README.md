@@ -66,7 +66,7 @@ Day | Title | Conference or Journal | Member | PDF | Youtube | Paper
 2022.10.11 | GEOMOL- Torsional Geometric Generation of Molecular 3D Conformer Ensembles | NIPS 2021 | 신동희 | [PDF] | | [paper]
 2022.10.17 | 3D Infomax improves GNNs for Molecular Property Prediction | ICML 2021 | 손영한 | [PDF] | | [paper]
 2022.10.24 | | | 이덕중 | [PDF] | | [paper]
-2024.03.08 | MOFDiff: Coarse-grained Diffusion for Metal-Organic Framework Design | ICLR 2024 | 신동희 | [PDF] | [paper](https://openreview.net/pdf?id=0VBsoluxR2)
+2024.03.08 | MOFDiff: Coarse-grained Diffusion for Metal-Organic Framework Design | ICLR 2024 | 신동희 | [PDF] | | | [paper](https://openreview.net/pdf?id=0VBsoluxR2)
 
 <a name="dp" />
 
